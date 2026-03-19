@@ -22,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbetre&show_icons=true&locale=en" alt="bbetre" /></p>
 
-rearange this markdown so i turns out nice looking. readme profile 
