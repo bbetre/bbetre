@@ -5,7 +5,13 @@
 
 - I’m currently working on [TibebMed](tibeb.et)
 
+- I’m looking to collaborate on [Afro Digital](afrodigital.dev)
+
+- I’m looking for help with [Cybersecurity Expert](afrodigital.dev)
+
 - All of my projects are available at [betre.afrodigital.dev](betre.afrodigital.dev)
+
+- I regularly write articles on [afrodigital.dev/blog](afrodigital.dev/blog)
 
 - How to reach me **betre@afrodigital.dev**
 
